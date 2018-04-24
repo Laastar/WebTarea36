@@ -1,0 +1,64 @@
+body 
+{
+	display: flex;
+	min-height: 100vh;
+	flex-direction: column;
+	background-color: black;
+}
+
+#contenedor
+{
+	background-color: #FFC155;
+}
+
+main 
+{
+	flex: 1 0 auto;
+}
+
+#toplogo
+{
+	font-size: 60px;
+}	
+
+#youth
+{
+	font-size: 17px;
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
+#quote1
+{
+	font-size: 20px;
+}
+
+#footrow
+{
+	height: 180px;
+	font-family: 'Roboto Slab', serif;
+}
+
+#footrow2
+{
+	height: 50px;
+}
+
+ p
+{
+	font-family: 'Inconsolata', monospace;
+}
+
+.nav-extended
+{
+	font-family: 'Montserrat', sans-serif;
+}
+
+collapsible-header
+{
+	font-family: 'Montserrat', sans-serif;
+}
+
+span
+{
+	font-family: 'Roboto Mono', monospace;
+}
